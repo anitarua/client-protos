@@ -1,0 +1,1 @@
+Currently running nodejs example using `npx ts-node testing.ts`
